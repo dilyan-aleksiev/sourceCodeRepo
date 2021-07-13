@@ -18,4 +18,5 @@ function solve(str1, str2) {
 
 }
 solve('great, learning',
-    'softuni is ***** place for ******** new programming languages')
+    'softuni is ***** place for ******** new programming languages');
+    
